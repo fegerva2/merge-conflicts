@@ -10,5 +10,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 
 quinto tiene un buzo verde verdesito
-quinto tiene un buzo verde verdesirto
+
 
