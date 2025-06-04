@@ -1,3 +1,5 @@
+quinto tiene un buzo verde verdesito
+
 ## Your GitHub Learning Lab Repository for Managing Merge Conflicts
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
@@ -9,6 +11,6 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 
-quinto tiene un buzo verde verdesito
+
 
 
