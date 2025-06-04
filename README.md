@@ -9,5 +9,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 
-este paisito es el mejor del mundito mundial
+quinto tiene un buzo verde
 
